@@ -1,0 +1,319 @@
+.bg-nav {
+    background-color: #fce8d5;
+}
+.image {
+    width: 60px;
+    height: 60px;
+}
+.nav-bg {
+    background-color: #b08968;
+}
+.icon-color {
+    background-color: #e8ddc8;
+}
+#navitem1 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem2 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem3 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem4 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem5 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem6 {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+#navitem7 {
+    color: #323f4b;
+    font-weight: bold;
+}
+.banner-section-bg-container {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/034/220/886/small_2x/pumpkin-spice-latte-iced-coffee-background-generative-ai-photo.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.banner-heading {
+    color: #ffffff;
+    font-family: "Papyrus";
+    font-size: 60px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+.banner-description {
+    color: #ffffff;
+    font-family: "Papyrus";
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 300;
+    padding-left: 30px;
+}
+.about-us-section {
+    background-color: #e2ddd9;
+}
+.about-us {
+    color: #3b2416;
+    font-size: 60px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.about-description {
+    color: #4b2e1e;
+    font-size: 20px;
+    font-family: "Serif";
+}
+.cup-image {
+    background-color: #e2ddd9;
+}
+.menu-section {
+    background-color: #e2ddd9;
+}
+.menu-title {
+    color: black;
+    font-size: 50px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.menu-image {
+    border-radius: 12px;
+}
+.menu-item-heading {
+    color: #4b2e1e;
+    font-size: 22px;
+    font-family: "Serif";
+    font-weight: 800;
+}
+.menu-item-description {
+    color: #4b2e1e;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+.menu-item-card {
+    border-radius: 16px;
+    background-color: #f8f1e7;
+}
+.order-button {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 90px;
+    height: 35px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #603b2a;
+    border-radius: 4px;
+    border-color: black;
+    padding: 5px;
+    margin: 8px;
+}
+.cart-button {
+    color: #4b2e1e;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 90px;
+    height: 35px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    background-color: #f1e2d1;
+    border-color: black;
+    padding: 5px;
+}
+.wcu-section {
+    background-color: #fce8d5;
+}
+.wcu-heading {
+    color: #2b1710;
+    font-size: 50px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.wcu-description {
+    color: #757b7d;
+    font-size: 18px;
+    font-family: "Poppins";
+}
+.wcu-card {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #d6bfa8;
+    border-width: 1px;
+    border-radius: 16px;
+}
+.wcu-image {
+    width: 150px;
+    height: 150px;
+}
+.wcu-image-heading {
+    color: #332f33;
+    font-size: 25px;
+    font-family: "Poppins";
+    font-weight: 800;
+}
+.wcu-image-description {
+    color: #806b61;
+    font-size: 18px;
+    font-family: "Poppins";
+}
+.shop-section {
+    background-color: #d8b4a0;
+}
+.shop-heading {
+    color: #323f4b;
+    font-size: 50px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.shop-description {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.shop-button {
+    color: #ffffff;
+    background-color: #6f4e37;
+    width: 120px;
+    height: 40px;
+    border-width: 2px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.delivery-payment-section {
+    background-color: #f7f0e6;
+}
+.delivery-heading {
+    color: #4b2e1e;
+    font-size: 50px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.delivery-description {
+    color: #4b2e1e;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.delivery-button {
+    color: #ffffff;
+    width: 120px;
+    height: 50px;
+    font-family: "Roboto";
+    border-width: 2px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #4b2e1e;
+}
+.payment-card-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+.Thanking-us-section {
+    background-image: linear-gradient(to right, #ead7c0, #a47148);
+}
+.thank-us-logo-heading {
+    color: #402719;
+    font-size: 20px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.thanking-us-heading {
+    color: #402719;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+.thanking-us-description {
+    color: #615851;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+.thanking-us-button {
+    width: 150px;
+    height: 40px;
+    color: #fff8ee;
+    background-image: linear-gradient(to right, #6f3e25, #c88746);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.thanking-us-modal-title {
+    color: #4b2e20;
+    font-size: 20px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.follow-us-section {
+    background-image: linear-gradient(to right, #ead7c0, #a47148);
+}
+.follow-us-heading {
+    color: #3b2418;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.follow-us-description {
+    color: #3b2418;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.youtube-icon {
+    color: #ff0000;
+    font-size: 35px;
+}
+.whatsapp-icon {
+    color: #25d366;
+    font-size: 35px;
+}
+.insta-icon {
+    color: #e4405f;
+    font-size: 35px;
+}
+.follow-us-icon-container {
+    width: 80px;
+    height: 80px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 20px;
+    border-radius: 40px;
+    margin: 10px;
+    background-color: #ffffff;
+}
+.follow-us-line {
+    width: 90%;
+    height: 3px;
+    background-color: #8b5e3c;
+    border: none;
+}
+.follow-description {
+    color: #3b2418;
+    font-size: 15px;
+    font-family: "Roboto";
+}
